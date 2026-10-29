@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Composing Digital Media</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">  </script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js">  </script>
+
+</head>
+<body>
+
+<div class="hero-image">
+  <div class="hero-text">
+    <h1 style="font-size:70px;">I am Elena Kimberling</h1>
+    <p style="font-size:25px;">Composing Digital Media Portfolio</p>
+  </div>
+</div>
+
+
+
+
+<div class="container-fluid bg-w text-center">
+    <h1>Introduction to New Media</h1><br>
+  <div class="row">
+    <div class="col-sm-4">
+        <h3>Code and Technology Narrative</h3>
+          <a href="https://elenakimberling31-droid.github.io/websitecode/" target="_blank">
+         <div class="hover">
+       <img src="scratch.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>For my exploration of code and technology, I realized just how little I had delved into the world of code. I breifly worked with scratzh but other than that most of my technology narrative was playing games of some sort.</p>
+    </div>
+       <div class="col-sm-4">
+        <h3>New Media and Webtext Experiment</h3>
+          <a href="https://elenakimberling31-droid.github.io/newmediawebtextexperiment/" target="_blank">        <div class="hover">
+       <img src="fabric.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>For the media and webtext experiment I wanted to use the tools I had already learned and place my own interests within it. So I decided to do a sort of overview of creating a dress and found it quite exciting to create something like this. </p>
+    </div>
+    <div class="col-sm-4">
+        <h3>Multi-Page Webtext Design</h3>
+          <a href="https://elenakimberling31-droid.github.io/experiment/" target="_blank">         <div class="hover">
+       <img src="paper.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>In my multi page website I wanted to talk about artificial intelligence. It is something I firmly am against and I feel like so many people don't know the truth of its horrors. So I wanted to emulate Plato's cave and discuss this idea that once you know you can't go back and no one really cares. </p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+    <div class="container-fluid bg-w text-left">
+ <h3 class="margin text-center">Course Goals</h3>
+        <br>
+
+    <div class="row">
+    <div class="col-sm-4">
+           <p><em>1. Consider technology’s role in acts of making</em></p>
+  <p>Creation is something I am very used to, just not in the digital world. The use of code allows us to create tangible things virtually. Through this class I learned how much of creativity and creation I can actually put into code. It isn't only very strict things but room for some personal interest as well. I felt like I was making something creative with my multipage web text design because I was working with a sort of story while using what I learned in coding. </p>
+        </div>
+            <div class="col-sm-4">
+        <p><em>2. Embrace experimentation</em></p>
+  <p>With these three projects I found myself experimenting a lot. So much of the code we were given I did not remotely understand. So I spent a lot of time copying code and deleting and creating new lines of binary. And so many times either nothing happened or it would mess it up completely. There are still so much I don't understand about code but I do feel like I have reached a good enough starting point to hopefully move forward to new projects. One point I did this a lot was in my Media and Webtext experiment. It wasn't a set format I could place things in but the opportunity to make the website into anything I wanted with different lines of code.  </p>
+        </div>
+          <div class="col-sm-4">
+        <p><em>3.Engage with others in a workshop environment</em></p>
+  <p>I really enjoyed the workshop environment as it often helped me with things I was confused with. Or would even make me realize it wasn't only me that had these issues. I discussed how I couldn't get my code to work or that there were a few aspects of the project I didn't understand how to do. I would be met with either agreeance or advice on how to fix it which was very helpful. One example of this was the Code and Technology Narrative, I realized things were happening and I wasn't really sure why. Then when I taked to my peers I was able to fix these mistakes. </p>
+        </div>
+    </div>
+    </div>
+
+       <div class="container-fluid bg-w">
+   <div class="row">
+    <div class="col-sm-2">
+       </div>
+    <div class="col-sm-4">
+        <p><em>4. Practice revision within and across media forms</em></p>
+  <p>I did quite a bit of revising, coding was something that deeply confused me. And I constantly found some kind of error but had no idea what the source was. So I found myself going all the way back to see what the cause of this little error was. One of the projects I went back and revised was the New Media and Webtext Experiment. When I first tried to do it I had so manu problems and no matter what I did nothing on the website would change. So I came back the next day with a clear mind and after throughly reading the directions I was able to make it into something I was proud of. </p>
+        </div>
+            <div class="col-sm-4">
+        <p><em>5. Learn to present your work</em></p>
+  <p>Whenever I would try to present my work I would feel quite embarassed by what I had created. I never wanted to show what I had done because I believed it would be inadequate when compared to other peoples works. But I learned to not be nervous because a lot of times other people would have the same problem as me. I also realized that its important to be proud of the work I had done. </p>
+        </div>
+ <div class="col-sm-2">
+       </div>
+</div>
+    </div>
+
+
+
+  <div class="container-fluid bg-b text-center">
+  <h1>Sound and Image</h1><br>
+  <div class="row">
+    <div class="col-sm-6">
+        <h3>Sound Composition</h3>
+          <a class="portfolio-link" data-toggle="modal" href="https://audio.com/elena-kimberling/audio/sound-experiment">
+         <div class="hover">
+       <img src="sound.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>For this project I wasnted to create a linear journey. I did it based on my day at work. I started with sounds and buses and it soon evolved to sounds of children laughing and pencils scratching. I rounded it out with more bus sounds and clanging of keys when entering my apartment and I liked the progression. </p>
+    </div>
+     <div class="col-sm-6">
+        <h3>The Exploratory Podcast</h3>
+          <a class="portfolio-link" data-toggle="modal" href="#https://soundcloud.com/elena-kimberling/podcast">
+         <div class="hover">
+       <img src="fashion.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>I didn't know much about video editing and the specifcs that went into it. So I tried to place more focus on the content itself and structuring my speech in a way that could be continually interesting. I placed some music in the background that hopefully made it engaging. I decided to discuss fast fashion and the detrimental impacts it has had. </p>
+    </div>
+      </div>
+      <div class="row">
+    <div class="col-sm-6">
+        <h3>Photo/text Collage</h3>
+          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+         <div class="hover">
+       <img src="collage.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>In this piece I wanted to create media based on one of my favorite books "Lola in the Mirror". Her story follows being on the lam and never knowing her own name. Her mom has her avoid mirrors and she doesn't really know who she is. I tried to demonstrate this multiple images of mirrors with no reflection and quotes in the novel regarding identity.</p>
+    </div>
+     <div class="col-sm-6">
+        <h3>Photo Essay</h3>
+          <a class="portfolio-link" data-toggle="modal" href="https://youtube.com/shorts/cMAyQZ-6VJg?is=Y_TlppbyUTyjyNN3">
+         <div class="hover">
+       <img src="zoo.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>For this project I decided to add multiple forms of media to tell a greater story. I took multiple videos and photos at the zoo, in the background of all the videos you can hear laughing and sounds of childlike joy. I juxtaposed it with quotes and dreamlike music. I wanted to show that there's this ability to hear something quite engaging while also looking at something majestic. </p>
+    </div>
+      </div>
+    </div>
+
+       <div class="container-fluid bg-b text-left">
+     <h3 class="margin text-center">Course Goals</h3>
+
+  <h4><em>1. Consider technology’s role in acts of making</em></h4>
+  <p>I felt that technology had a significantly smaller role in this unit than the last. It mirror something I was comfortable with and have done before. I spend a lot more time with physical media so the ability to create something with images and actual sounds we had created I felt more creatively inspired. I felt as though this was something I could actually achieve, instead of becoming quite frustrated. The project that I thought to be most "technological" was the sound experiment. Iy was interesting to see how the audio was demonstrated in sound waves and how the technology was able to kind of warp it.  /p>
+     <br>
+        <h4><em>2. Embrace experimentation</em></h4>
+  <p>I feel like I did experiment with a good amount, muiltiple times throughout this project I had trouble thinking of what topic to base these on. So I tried to move away from something I would classically do and work with these pieces of media as a narraative. Sometimes I would find that my original idea would not work and actuality and found myself pivoting into something new. What I thought I experimented most with was my photo text collage, I allowed myself to work creatively and not work within the boundaries I had set for other projects. So I let myself go on the journey and add and delete things as I saw fit. </p>
+      <br>
+        <h4><em>3.Engage with others in a workshop environment</em></h4>
+  <p>I engaged with others a lot during the course of this project. I very much enjoyed the place of having group members to talk to and discuss my work. I also really liked seeing the pieces of media other people created as a lot of times they were actually very different from mine. It gave me some outlook onto the range of ideas and creativity that was possible within this project. After creating my sound experiment I expressed to one of my classmates that audacity comepletely confused me and that I wasn't sure how to cut any of the audio. She was then able to help me and I could revise my project.</p>
+      <br>
+            <h4><em>4. Practice revision within and across media forms</em></h4>
+  <p>There were multiple times throughout the course of this unit that I found somete things I could not to. I gave up for the day and would later come back with a clear mind and better inderstanding of what to be done in order to make this piece of media work. A few times I realized I could do better with a different device or at many instances simplifying the project itself so I complete it in actuality. One thing I revised was my photo essay, whem I first created it I had used live images, placing focus on the sounds. But after presenting my work I realized it was much more of an essay than a photo one and I instead used multiple stills. </p>
+      <br>
+            <h4><em>5. Learn to present your work</em></h4>
+  <p>It felt weird to present my own work when it felt more personal than the coding project I had made. It was either hearing my own voice or presenting something I was proud of and worried criticism. Either way I did quite enjoy the act of presenting and seeing what other peoples reactions were to my work. When presenting my photo essay I was excited as I had ceeated something I was proud of. But the feedback felt disapointing and I dound myself upset that I had chosen to present it. But it was actually better for me as I was able to revise it and make it into an actual photo essay. </p>
+           <br>
+    </div>
+
+
+
+<div class="container-fluid bg-w text-center">
+  <h1>Video</h1><br>
+  <div class="row">
+    <div class="col-sm-4">
+        <h3>Title</h3>
+          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
+         <div class="hover">
+       <img src="steve.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+     <div class="col-sm-4">
+        <h3>Title</h3>
+          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+         <div class="hover">
+       <img src="steve.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+     <div class="col-sm-4">
+        <h3>Title</h3>
+          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal7">
+         <div class="hover">
+       <img src="steve.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+</div>
+
+
+   <div class="container-fluid bg-w text-left">
+ <h3 class="margin text-center">Course Goals</h3>
+ <br>
+    <div class="row">
+    <div class="col-sm-4">
+        <p><em>1. Consider technology’s role in acts of making</em></p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+            <div class="col-sm-4">
+        <p><em>2. Embrace experimentation</em></p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+          <div class="col-sm-4">
+        <p><em>3.Engage with others in a workshop environment</em></p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+    </div>
+
+   <div class="row">
+    <div class="col-sm-2">
+       </div>
+    <div class="col-sm-4">
+        <p><em>4. Practice revision within and across media forms</em></p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+            <div class="col-sm-4">
+        <p><em>5. Learn to present your work</em></p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+ <div class="col-sm-2">
+       </div>
+</div>
+    </div>
+
+
+
+    <div class="container-fluid bg-b text-left">
+  <h1 class="text-center">Final Project: Title</h1><br>
+  
+  <div class="row"> 
+     <div class="col-sm-6">
+          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal8">
+         <div class="hover">
+       <img src="steve.jpeg" class="img-responsive" style="width:100%"alt="Image" >
+              </div>
+     </a>
+    </div>
+
+     <div class="col-sm-6">
+          <p>"Description. Discuss theories, methods, tools, and practices. You might also refer to a few of the course goals to better inform/connect this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+              </div>
+  
+    </div>
+
+    <div class="col-sm-2">
+  </div>
+
+</div>
+
+     
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+ 
+
+
+    <div class="container-fluid text-center">
+ <img src="steve.jpeg" class="center-large-image" alt="Steve" style="max-width:25%;max-height:25%;">
+
+
+
+<p>generated by Pitt Fuego</p>
+    <p> “Why make a spark when you can light a fire?</p>
+   </div>
+
+<br>
+<br>
+
+<!-- Stops video/audio from playing on modal close -->
+<script>
+$(function(){
+$("body").on('hidden.bs.modal', function (e) {
+var $iframes = $(e.target).find("iframe");
+$iframes.each(function(index, iframe){
+$(iframe).attr("src", $(iframe).attr("src"));
+});
+});
+});
+</script>
+
+</body>
+   </html>
+
+
+    <!-- Modal 1 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="sound.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <!-- Modal 2 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <!-- Modal 3 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <!-- Modal 4
+Are you pasting in a PDF link? Try using an iframe.
+<iframe src="" alt="" width="95%" height="600"></iframe>
+      -->
+  <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+        <!-- Modal 5 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <!-- Modal 6 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <!-- Modal 7 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <!-- Modal 8 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <!-- Modal 9 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+           <!-- Modal 10 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+           <!-- Modal 11 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-lg">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <img class="img-responsive" src="steve.jpeg" style="width:100%" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+MIT SUB License
+
+Copyright (c) [2020] [Stephen J. Quigley]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+
+
+
+The MIT License (MIT)
+
+Copyright (c) 2013-2019 Blackrock Digital LLC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+# digital-media-portfolio
+
+Digital Media Portfolio designed for pedagological considerations, built on Bootstrap. Using this template, students learn the basics of bootstrap including css standards and cool tools like modal views. 
+
+This portfolio encourages students to oraganize and language their work to refine its presentation. Additionally, this portfolio requires students to argue how the work in the portfolio demonstrates their concerted effort to meet course goals. 
+
+See step-by-step PDF instructions for mac or window platforms. 
+
+
+
+body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (steve.jpeg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("steve.jpeg");
+
+  /* Set a specific height */
+  height: 100vh;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+.hover:hover .img-responsive {
+  opacity: 0.3;
+}
+
+.hover:hover .img {
+  opacity: 0.3;
+}
+
+
+.bg-b {
+  background: #2d2d30;
+  color: #bdbdbd;
+}
+.bg-w h3 {color: #fff;}
+.bg-w p {color: #fff;}
+
+.bg-w= {
+  background: #fff;
+  color: #2d2d30;
+}
+.bg-w h3 {color: #2d2d30;}
+.bg-w p {color: #2d2d30;}
+
+
+
+
+
+
+
